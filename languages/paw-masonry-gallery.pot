@@ -1,0 +1,176 @@
+# Copyright (C) 2023 Masonry Gallery
+# This file is distributed under the same license as the Masonry Gallery package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Masonry Gallery\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: WPPaw <hello@wppaw.com>\n"
+"POT-Creation-Date: 2023-10-19 19:07+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:19
+msgid "Masonry Gallery"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:28
+msgid "General"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:29
+msgid "Captions"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:30, includes/modules/MasonryGallery/MasonryGallery.php:201
+msgid "Lightbox"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:35
+msgid "Overlay"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:36, includes/modules/MasonryGallery/MasonryGallery.php:62
+msgid "Items"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:37, includes/modules/MasonryGallery/MasonryGallery.php:72, includes/modules/MasonryGallery/MasonryGallery.php:343
+msgid "Image"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:38
+msgid "Caption"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:40
+msgid "Caption Text"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:44, includes/modules/MasonryGallery/MasonryGallery.php:311
+msgid "Title"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:47, includes/modules/MasonryGallery/MasonryGallery.php:327
+msgid "Description"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:57
+msgid "Gallery"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:67
+msgid "Item"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:83
+msgid "Choose Images"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:84
+msgid "Choose the images that you would like to appear in the image gallery."
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:94
+msgid "Image Size"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:96
+msgid " Select the size of your images."
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:108
+msgid "Gallery Layout"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:113
+msgid "Gallery Type"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:117
+msgid "Masonry"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:118
+msgid "Grid"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:119
+msgid "Highlight"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:120
+msgid "Slider"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:129
+msgid "Columns"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:150
+msgid "Spacing"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:167
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:177
+msgid "Opacity"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:194
+msgid "Lightbox & Links"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:198
+msgid "No Link"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:199
+msgid "Media File"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:200
+msgid "Attachment Page"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:214
+msgid "Hide Caption"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:217, includes/modules/MasonryGallery/MasonryGallery.php:231, includes/modules/MasonryGallery/MasonryGallery.php:248
+msgid "yes"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:218, includes/modules/MasonryGallery/MasonryGallery.php:232, includes/modules/MasonryGallery/MasonryGallery.php:249
+msgid "no"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:228
+msgid "Hide Title"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:245
+msgid "Hide Description"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:388, includes/modules/MasonryGallery/MasonryGallery.php:401
+msgid "Gallery not found."
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:452, includes/modules/MasonryGallery/MasonryGallery.php:453
+msgid "Open image"
+msgstr ""
+
+#: includes/modules/MasonryGallery/MasonryGallery.php:632
+msgid "Full"
+msgstr ""
+
+#: paw-masonry-gallery.php:132
+msgid "Upgrade"
+msgstr ""
